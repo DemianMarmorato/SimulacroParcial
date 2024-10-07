@@ -121,4 +121,6 @@ def main():
 if __name__ == "__main__":
     main()
     
-    
+
+
+# Me olvidé de hacer las validaciones pero vi el semejante choclo de código que hice y me dió mucha fiaca hacerlo, perdón profes, obviamente las voy a hacer en el parcial :)
